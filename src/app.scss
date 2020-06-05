@@ -1,0 +1,19 @@
+
+$colore_primario: #114578;
+$colore_titoli : #cc2445;
+$section_margin: 100px 0;
+
+
+section{
+    background-color: $colore_primario;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: $section_margin;
+}
+
+h1, h3{
+    color: $colore_titoli;
+}

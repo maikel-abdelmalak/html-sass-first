@@ -1,0 +1,15 @@
+section {
+  background-color: #114578;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px 0;
+}
+
+h1,
+h3 {
+  color: #cc2445;
+}
+
